@@ -1,0 +1,19 @@
+body{
+    
+    background-image: url(https://can-of-worms.co.uk/504-large_default/hogwarts-harry-potter-wooden-coaster.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+   
+}
+form{
+    position: relative;
+    left: 500px;
+    top:  200px;
+
+}
+
+
+.r{
+    color: brown;
+}
